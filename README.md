@@ -1,4 +1,4 @@
-<h1 align="center"><img src="Blue and White Architect LinkedIn Banner.png" /></h1>
+<h1 align="center"><img src="gitbanner.png" /></h1>
 
 <h1 align="center">Hi 👋, I'm Syed Maaz</h1>
 <h3 align="center">A Frontend Developer from Karachi, Pakistan.</h3>
